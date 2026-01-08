@@ -31,8 +31,8 @@ The game runs in your terminal. You play against a Bot for **3 rounds**.
 ### Quick Start
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Shubhanshu-356/Conversational-Agents.git](https://github.com/Shubhanshu-356/Conversational-Agents.git)
-    cd Conversational-Agents
+    git clone https://github.com/Shubhanshu-356/AI_GAME_REFEREE_CHATBOT.git
+    cd AI_GAME_REFEREE_CHATBOT
     ```
 
 2.  **Install dependencies:**
